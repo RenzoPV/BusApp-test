@@ -1,3 +1,3 @@
-##Vista de la aplicación web
+#Vista de la aplicación web
 
 ![app](app.PNG)
